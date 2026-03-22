@@ -1,0 +1,36 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+deepeval_env/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/editor dirs
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Local env files (do NOT commit)
+.env
+.env.*
+
+# Test reports
+reports/
+
+# Logs
+*.log

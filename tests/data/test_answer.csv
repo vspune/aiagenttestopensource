@@ -1,0 +1,4 @@
+scenario,question,expected,threshold
+relevant,"What is weather in London?",pass,0.70
+irrelevant,"Tell me a joke!",fail,0.70
+irrelevant,"Tell me about history!",fail,0.70
